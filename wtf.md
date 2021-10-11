@@ -27,7 +27,7 @@ each other about who is the most oppressed among them<sup>3</sup>.
 
 <br/>
 
-The Chinese and Russians must be thinking: ["Never interrupt your enemy when he is making a mistake."](https://twitter.com/usarmy/status/242294060650475521)
+Chinese and Russians must be thinking: ["Never interrupt your enemy when he is making a mistake."](https://twitter.com/usarmy/status/242294060650475521)
 
 <br/>
 
