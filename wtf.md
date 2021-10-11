@@ -23,6 +23,7 @@ each other about who is the most oppressed among them<sup>3</sup>.
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=FXmyWdZfdgk"><img src="https://img.youtube.com/vi/FXmyWdZfdgk/0.jpg" alt="America's new 'woke' Army ad vs China and Russia Army ads"></a>
+  <p>Click on the image to play the YouTube video</p>
 </div>
 
 <br/>
