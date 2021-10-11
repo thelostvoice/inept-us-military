@@ -4,7 +4,7 @@
 
     You have Military doctors and scientists that at least know how to use a   light microscope and they probably have access to electron microscopes.
 
-    No military should ever completely rely on what pharmaceutical companies (or any company whatsoever) say about their products even if said company is local because you might have hostile employees working in them. 
+    No military should ever completely rely on what pharmaceutical companies (or any company whatsoever<sup>1</sup>) say about their products even if said company is local because you might have hostile employees working in them. 
 
     Just like the U.S. government [mistrust](https://www.bloomberg.com/news/articles/2020-12-17/u-s-to-limit-use-of-chinese-power-equipment-on-military-bases) some electrical products coming from China and with reason (China too should be suspicious of anything American), they should treat with the same extreme caution any health products that will be applied to their service members. If they have done their diligent work, they would have found [graphene oxide and other unknown materials in the vials](https://www.orwell.city/2021/10/human-DNA-alteration.html). 
 
@@ -21,3 +21,11 @@ Consequently, the U.S. Military might be in the near future in a situation where
 ----------------------------------------------------
 
 More info at https://lostvoice.substack.com/
+
+## Notes
+1. For instance, you might not know that a backdoor may have been 
+   installed in the software that you use, especially if it is 
+   closed-source. Thus you won’t expect the U.S. Military to accept 
+   blindly installing any software in their IT systems without doing 
+   their own deep investigation to make sure the program is safe.
+   
