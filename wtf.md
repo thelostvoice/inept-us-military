@@ -21,7 +21,7 @@ personal struggle instead of seeing himself/herself as a cog<sup>2</sup> among o
 will defend the nation. You can’t have strong global unity if each unit is arguing against 
 each other about who is the most oppressed among them<sup>3</sup>.
 
-<br/>
+[![America's new 'woke' Army ad vs China and Russia Army ads](https://img.youtube.com/vi/FXmyWdZfdgk/0.jpg)](https://www.youtube.com/watch?v=FXmyWdZfdgk)
 
 The Chinese and Russians must be thinking: ["Never interrupt your enemy when he is making a mistake."](https://twitter.com/usarmy/status/242294060650475521)
 
