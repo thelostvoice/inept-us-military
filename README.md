@@ -25,8 +25,8 @@ More info at https://lostvoice.substack.com/
 ## Notes
 1. For instance, you might not know that a backdoor may have been 
    installed in the software that you use, especially if it is 
-   closed-source. Thus you won’t expect the U.S. Military to accept 
-   blindly installing any software in their IT systems without doing 
+   closed-source. Thus you won’t expect the U.S. Military to blindly
+   accept installing any software in their IT systems without doing 
    their own deep investigation to make sure the program is safe.
 
 <br/>
