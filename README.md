@@ -28,7 +28,16 @@ More info at https://lostvoice.substack.com/
    closed-source. Thus you won’t expect the U.S. Military to accept 
    blindly installing any software in their IT systems without doing 
    their own deep investigation to make sure the program is safe.
-   
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 ----------------------------------------------------
 
 CVE-2021-21315
