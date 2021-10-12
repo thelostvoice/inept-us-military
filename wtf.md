@@ -4,7 +4,7 @@
 Why are they acting so different from the two other rival armies (Chinese and Russian)?
 
 All we can say about the U.S. Military is that they should have read The [*Art of War* by Sun Tzu](https://suntzusaid.com/), 
-one of the most important and oldest military books because by their acts, it does look like 
+one of the most important and oldest military books because by their acts, it definitely looks like 
 they didn’t bother to even read the first two chapters.
 
 Surely the Chinese military already applied the book’s timeless military strategies and 
